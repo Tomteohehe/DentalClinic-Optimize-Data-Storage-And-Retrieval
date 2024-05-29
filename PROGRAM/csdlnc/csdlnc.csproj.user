@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="accountCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dentishAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dentisPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="doctorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lichhenNhaSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kehoachdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lichhenPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientcttt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientlh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patient_khdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rangDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="receptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="receptionPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="thuocDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuocPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
